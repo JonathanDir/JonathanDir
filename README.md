@@ -1,6 +1,6 @@
 <div align="center">
 
-<code>Universitas Dian Nuswantoro</code>
+<code>•Informatics Engineering Student•</code>
 
 <br><br>
 
@@ -27,8 +27,8 @@ I enjoy learning new technologies, building projects, and exploring how technolo
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Jonathan Naufal Farrel](https://www.linkedin.com/in/jonathannaufalfarrel/)
 - **Email:** jonathan.nfarrel@gmail.com
+- **LinkedIn:** [Jonathan Naufal Farrel](https://www.linkedin.com/in/jonathannaufalfarrel/)
 - **Portfolio & Links:** [jonathannaufalfarrel.taplink.ws](https://jonathannaufalfarrel.taplink.ws/)
 
 ---

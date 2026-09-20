@@ -1,11 +1,11 @@
 <div align="center">
 
-<code>Informatics Engineering Student</code>
+<code>Universitas Dian Nuswantoro</code>
 
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Jonathan+Naufal+Farrel;Informatics+Engineering+Student;Web+and+Network+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+I%27m+Jonathan+👋;Software+%26+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -18,7 +18,7 @@
 
 ## 🎯 Areas of Interest
 
-Web Development • Backend Development • Software Engineering • Application Development • Python • Flask • Laravel
+Web Development • Software Engineering • Application Development
 
 ---
 
@@ -26,6 +26,7 @@ Web Development • Backend Development • Software Engineering • Application
 
 - LinkedIn: [Jonathan Naufal Farrel](https://www.linkedin.com/in/jonathannaufalfarrel/)
 - Email: jonathan.nfarrel@gmail.com
+- Portfolio & Links: [jonathannaufalfarrel.taplink.ws](https://jonathannaufalfarrel.taplink.ws/)
 
 ---
 

@@ -33,4 +33,4 @@ I enjoy learning new technologies, building projects, and exploring how technolo
 
 ---
 
-⭐ Thanks for visiting my profile ")
+⭐ Thanks for visiting my profile ^_^

@@ -1,6 +1,6 @@
 <div align="center">
 
-<code>Universitas Dian Nuswantoro</code>
+<code>Informatics Engineering Student</code>
 
 <br><br>
 

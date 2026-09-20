@@ -1,6 +1,6 @@
 <div align="center">
 
-<code>•Informatics Engineering Student•</code>
+<code>• Informatics Engineering Student •</code>
 
 <br><br>
 
@@ -33,4 +33,4 @@ I enjoy learning new technologies, building projects, and exploring how technolo
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile :)

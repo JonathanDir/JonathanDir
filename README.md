@@ -1,6 +1,14 @@
-# Hi, I'm Jonathan 👋
+<div align="center">
 
-Informatics Engineering Student at Universitas Dian Nuswantoro 
+<code>Informatics Engineering Student</code>
+
+<h1>👋 Hi, I'm Jonathan Naufal Farrel</h1>
+
+**Universitas Dian Nuswantoro**
+
+</div>
+
+<br>
 
 I'm an Information Technology student with an interest in **Web Development, Application Development, and Software Engineering**.
 
@@ -18,9 +26,6 @@ Web Development • Backend Development • Software Engineering • Application
 
 - LinkedIn: [Jonathan Naufal Farrel](https://www.linkedin.com/in/jonathannaufalfarrel/)
 - Email: jonathan.nfarrel@gmail.com
-
----
-
 
 ---
 

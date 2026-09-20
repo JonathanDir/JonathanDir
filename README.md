@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-🎓 Information Technology Student | 💻 Aspiring Software Engineer
+Informatics Engineering Student at Universitas Dian Nuswantoro 
 
 I'm an Information Technology student with an interest in **Web Development, Application Development, and Software Engineering**.
 

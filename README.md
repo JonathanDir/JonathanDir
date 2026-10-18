@@ -21,7 +21,7 @@ I enjoy learning new technologies, building projects, and exploring how technolo
 
 ## 🎯 Areas of Interest
 
-**Web Development • Software Engineering • Application Development**
+**Software Engineering • Web Development • Application Development**
 
 ---
 

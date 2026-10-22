@@ -29,7 +29,7 @@ I enjoy learning new technologies, building projects, and exploring how technolo
 
 - **Email:** jonathan.nfarrel@gmail.com
 - **LinkedIn:** [Jonathan Naufal Farrel](https://www.linkedin.com/in/jonathannaufalfarrel/)
-- **Portfolio & Link:** [jonathannaufalfarrel.taplink.ws](https://jonathannaufalfarrel.taplink.ws/)
+- **Portfolio & Link:** [jonathannaufalfarrel.taplink.ws](https://jonathannf.vercel.app/)
 
 ---
 
